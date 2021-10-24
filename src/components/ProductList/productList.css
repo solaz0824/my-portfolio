@@ -17,6 +17,8 @@
 
 .pl-desc {
   margin: 20px 0px;
+  font-weight: 400;
+  font-style: italic;
 }
 
 .pl-list {
